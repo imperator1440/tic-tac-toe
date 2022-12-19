@@ -48,3 +48,9 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.board-state {
+  margin-left: 7px;
+  white-space: pre-line;
+  letter-spacing: 10px;
+}
